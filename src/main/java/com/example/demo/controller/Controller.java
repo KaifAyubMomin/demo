@@ -9,7 +9,7 @@ public class Controller {
     @GetMapping("/")
     public String sample(){
 
-        return " hii from Spring boot app ...";
+        return " hii from Spring boot app ... from laptop";
     }
 
 }
